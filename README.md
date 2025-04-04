@@ -1,7 +1,7 @@
 # Slides
 Slides from our meetups
 
-# Dev-Workflows on Fire with Dotnet Aspire
+## Dev-Workflows on Fire with Dotnet Aspire - Georg Müller
 
 Introduction to Dotnet Aspire (as of version 9.0). Demonstrating how to use it to improve development workflows like
 
@@ -17,3 +17,11 @@ Introduction to Dotnet Aspire (as of version 9.0). Demonstrating how to use it t
 <dt>Blog series with some more samples (in German)</dt>
 <dd>https://zyrr.io/series/aspire</dd>
 </dl>
+
+**Recording:** [https://www.youtube.com/watch?v=a00hoFF-Efo](https://www.youtube.com/watch?v=a00hoFF-Efo)
+
+## Ref’erything about C# - Rainer Stropek
+
+No slides, as Rainer did everything live.
+
+**Recording:** [https://www.youtube.com/watch?v=a00hoFF-Efo](https://www.youtube.com/watch?v=lTSZSxFkZ7)
