@@ -24,4 +24,4 @@ Introduction to Dotnet Aspire (as of version 9.0). Demonstrating how to use it t
 
 No slides, as Rainer did everything live.
 
-**Recording:** [https://www.youtube.com/watch?v=a00hoFF-Efo](https://www.youtube.com/watch?v=lTSZSxFkZ7)
+**Recording:** [https://www.youtube.com/watch?v=lTSZSxFkZ7](https://www.youtube.com/watch?v=lTSZSxFkZ7)
