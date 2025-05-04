@@ -28,6 +28,11 @@ No slides, as Rainer did everything live.
 
 ## Feature-Driven Architecture: The Power of Vertical Slices - Alexander Pabinger
 
-TODO: add slides
+<dl>
+<dt>Slides from the talk</dt>
+<dd><a href="2025-04-24-feature-driven-architecture.pdf">eature-Driven Architecture: The Power of Vertical Slices</a></dd>
+<dt>Code from the talk</dt>
+<dd>https://github.com/AlexDelPab/PizzaRecipeBook</dd>
+</dl>
 
 **Recording:** [https://www.youtube.com/watch?v=H2xy2L4T40I](https://www.youtube.com/watch?v=H2xy2L4T40I)
