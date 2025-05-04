@@ -25,3 +25,9 @@ Introduction to Dotnet Aspire (as of version 9.0). Demonstrating how to use it t
 No slides, as Rainer did everything live.
 
 **Recording:** [https://www.youtube.com/watch?v=lTSZSxFkZ7](https://www.youtube.com/watch?v=lTSZSxFkZ7)
+
+## Feature-Driven Architecture: The Power of Vertical Slices - Alexander Pabinger
+
+TODO: add slides
+
+**Recording:** [https://www.youtube.com/watch?v=H2xy2L4T40I](https://www.youtube.com/watch?v=H2xy2L4T40I)
