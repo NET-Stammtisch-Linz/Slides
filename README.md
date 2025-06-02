@@ -30,9 +30,18 @@ No slides, as Rainer did everything live.
 
 <dl>
 <dt>Slides from the talk</dt>
-<dd><a href="2025-04-24-feature-driven-architecture.pdf">eature-Driven Architecture: The Power of Vertical Slices</a></dd>
+<dd><a href="2025-04-24-feature-driven-architecture.pdf">Feature-Driven Architecture: The Power of Vertical Slices</a></dd>
 <dt>Code from the talk</dt>
 <dd>https://github.com/AlexDelPab/PizzaRecipeBook</dd>
 </dl>
 
 **Recording:** [https://www.youtube.com/watch?v=H2xy2L4T40I](https://www.youtube.com/watch?v=H2xy2L4T40I)
+
+## Going Functional With Railway-Oriented Programming in C# - Paul Rohorzka
+
+<dl>
+<dt>Slides from the talk</dt>
+<dd><a href="2025-05-27-railway-oriented-programming.pdf">Going Functional With Railway-Oriented Programming in C#</a></dd>
+</dl>
+
+**Recording:** [https://www.youtube.com/watch?v=QOzuf-_cgxI](https://www.youtube.com/watch?v=QOzuf-_cgxI)
