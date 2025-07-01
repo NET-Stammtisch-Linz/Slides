@@ -52,7 +52,7 @@ No slides, as Rainer did everything live.
 <dt>Slides from the talk</dt>
 <dd><a href="2025-06-24-event-store-with-marten.pdf">Turning PostgreSQL into an Event Store with Marten</a></dd>
 <dt>Code from the talk</dt>
-<dd>[https://github.com/AlexDelPab/PizzaRecipeBook](https://github.com/kopfrechner/SchraeglagenProtokoll)</dd>
+<dd>https://github.com/kopfrechner/SchraeglagenProtokoll</dd>
 </dl>
 
 **Recording:** [https://www.youtube.com/watch?v=hzSZqlyyyQY](https://www.youtube.com/watch?v=hzSZqlyyyQY)
