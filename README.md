@@ -56,3 +56,14 @@ No slides, as Rainer did everything live.
 </dl>
 
 **Recording:** [https://www.youtube.com/watch?v=hzSZqlyyyQY](https://www.youtube.com/watch?v=hzSZqlyyyQY)
+
+## Architectural Snapshot Testing - Andreas Hölzlwimmer
+
+<dl>
+<dt>Slides from the talk</dt>
+<dd><a href="2025-10-28-architectural-snapshot-testing.pdf">Architectural Snapshot Testing - Andreas Hölzlwimmer</a></dd>
+<dt>Code from the talk</dt>
+<dd>https://github.com/privatemeta/SnapshotArchitectureTestingSample</dd>
+</dl>
+
+**Recording:** [https://www.youtube.com/watch?v=KQ6f5m1-CjY](https://www.youtube.com/watch?v=KQ6f5m1-CjY)
