@@ -67,3 +67,10 @@ No slides, as Rainer did everything live.
 </dl>
 
 **Recording:** [https://www.youtube.com/watch?v=KQ6f5m1-CjY](https://www.youtube.com/watch?v=KQ6f5m1-CjY)
+
+
+## Model Context Protocol with C# - A Technical Deep Dive - Rainer Stropek
+
+No slides, as Rainer did everything live.
+
+**Recording:** [https://www.youtube.com/watch?v=Y5iRmBtbfl0](https://www.youtube.com/watch?v=Y5iRmBtbfl0)
