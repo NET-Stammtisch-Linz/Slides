@@ -71,6 +71,11 @@ No slides, as Rainer did everything live.
 
 ## Model Context Protocol with C# - A Technical Deep Dive - Rainer Stropek
 
-No slides, as Rainer did everything live.
+<dl>
+<dt>Slides from the talk</dt>
+<dd>No slides, as Rainer did everything live.</dd>
+<dt>Code from the talk</dt>
+<dd>https://github.com/rstropek/2025-mcp-webinar</dd>
+</dl>
 
 **Recording:** [https://www.youtube.com/watch?v=Y5iRmBtbfl0](https://www.youtube.com/watch?v=Y5iRmBtbfl0)
