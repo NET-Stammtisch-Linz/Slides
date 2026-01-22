@@ -1,81 +1,19 @@
 # Slides
+
 Slides from our meetups
 
-## Dev-Workflows on Fire with Dotnet Aspire - Georg Müller
+## Archive
 
-Introduction to Dotnet Aspire (as of version 9.0). Demonstrating how to use it to improve development workflows like
+- [2025](./2025/2025.md)
 
-- Onboarding of a new developer
-- Resource updates
-- Integration tests
+
+## Roslyn 101: Source Generators, Diagnostic Analyzers and CodeFix Providers - Shahab Ganji
 
 <dl>
 <dt>Slides from the talk</dt>
-<dd><a href="2025-02-11-dev-workflows-with-aspire.pdf">Dev Workflows on Fire with Dotnet Aspire</a></dd>
+<dd><a href="2026-01-22-roslyn-101.pdf">Roslyn 101: Source Generators, Diagnostic Analyzers and CodeFix Providers</a></dd>
 <dt>Code from the talk</dt>
-<dd>https://github.com/ggmueller/aspire-sample</dd>
-<dt>Blog series with some more samples (in German)</dt>
-<dd>https://zyrr.io/series/aspire</dd>
+<dd>https://github.com/USER/REPO</dd>
 </dl>
 
-**Recording:** [https://www.youtube.com/watch?v=a00hoFF-Efo](https://www.youtube.com/watch?v=a00hoFF-Efo)
-
-## Ref’erything about C# - Rainer Stropek
-
-No slides, as Rainer did everything live.
-
-**Recording:** [https://www.youtube.com/watch?v=lTSZSxFkZ7](https://www.youtube.com/watch?v=lTSZSxFkZ7)
-
-## Feature-Driven Architecture: The Power of Vertical Slices - Alexander Pabinger
-
-<dl>
-<dt>Slides from the talk</dt>
-<dd><a href="2025-04-24-feature-driven-architecture.pdf">Feature-Driven Architecture: The Power of Vertical Slices</a></dd>
-<dt>Code from the talk</dt>
-<dd>https://github.com/AlexDelPab/PizzaRecipeBook</dd>
-</dl>
-
-**Recording:** [https://www.youtube.com/watch?v=H2xy2L4T40I](https://www.youtube.com/watch?v=H2xy2L4T40I)
-
-## Going Functional With Railway-Oriented Programming in C# - Paul Rohorzka
-
-<dl>
-<dt>Slides from the talk</dt>
-<dd><a href="2025-05-27-railway-oriented-programming.pdf">Going Functional With Railway-Oriented Programming in C#</a></dd>
-</dl>
-
-**Recording:** [https://www.youtube.com/watch?v=QOzuf-_cgxI](https://www.youtube.com/watch?v=QOzuf-_cgxI)
-
-## Turning PostgreSQL into an Event Store with Marten - Christoph Kopf
-
-<dl>
-<dt>Slides from the talk</dt>
-<dd><a href="2025-06-24-event-store-with-marten.pdf">Turning PostgreSQL into an Event Store with Marten</a></dd>
-<dt>Code from the talk</dt>
-<dd>https://github.com/kopfrechner/SchraeglagenProtokoll</dd>
-</dl>
-
-**Recording:** [https://www.youtube.com/watch?v=hzSZqlyyyQY](https://www.youtube.com/watch?v=hzSZqlyyyQY)
-
-## Architectural Snapshot Testing - Andreas Hölzlwimmer
-
-<dl>
-<dt>Slides from the talk</dt>
-<dd><a href="2025-10-28-architectural-snapshot-testing.pdf">Architectural Snapshot Testing - Andreas Hölzlwimmer</a></dd>
-<dt>Code from the talk</dt>
-<dd>https://github.com/privatemeta/SnapshotArchitectureTestingSample</dd>
-</dl>
-
-**Recording:** [https://www.youtube.com/watch?v=KQ6f5m1-CjY](https://www.youtube.com/watch?v=KQ6f5m1-CjY)
-
-
-## Model Context Protocol with C# - A Technical Deep Dive - Rainer Stropek
-
-<dl>
-<dt>Slides from the talk</dt>
-<dd>No slides, as Rainer did everything live.</dd>
-<dt>Code from the talk</dt>
-<dd>https://github.com/rstropek/2025-mcp-webinar</dd>
-</dl>
-
-**Recording:** [https://www.youtube.com/watch?v=Y5iRmBtbfl0](https://www.youtube.com/watch?v=Y5iRmBtbfl0)
+**Recording:** [https://www.youtube.com/watch?v=XXXXXXXXXXXX](https://www.youtube.com/watch?v=XXXXXXXXXXXX)
