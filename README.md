@@ -9,11 +9,11 @@ Slides from our meetups
 
 ## Roslyn 101: Source Generators, Diagnostic Analyzers and CodeFix Providers - Shahab Ganji
 
+No slides.
+
 <dl>
-<dt>Slides from the talk</dt>
-<dd><a href="2026-01-22-roslyn-101.pdf">Roslyn 101: Source Generators, Diagnostic Analyzers and CodeFix Providers</a></dd>
 <dt>Code from the talk</dt>
-<dd>https://github.com/USER/REPO</dd>
+<dd>https://github.com/shahabganji/compiler-is-your-friend-2025/tree/main</dd>
 </dl>
 
 **Recording:** [https://www.youtube.com/watch?v=XXXXXXXXXXXX](https://www.youtube.com/watch?v=XXXXXXXXXXXX)
