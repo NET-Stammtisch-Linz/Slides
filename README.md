@@ -16,4 +16,13 @@ No slides.
 <dd>https://github.com/shahabganji/compiler-is-your-friend-2025/tree/main</dd>
 </dl>
 
+**Recording:** [https://www.youtube.com/watch?v=YL6t3DxYA-0](https://www.youtube.com/watch?v=YL6t3DxYA-0)
+
+## Extension Everything Under the Covers by the ILSpy maintainers - Christoph Wille & Siegfried Pammer
+
+<dl>
+<dt>Slides from the talk</dt>
+<dd><a href="https://github.com/christophwille/demosatconferences/blob/master/ILSpy_Meetup_Linz_Feb26_ExtensionEverything.pdf">Extension Everything Under the Covers</a></dd>
+</dl>
+
 **Recording:** [https://www.youtube.com/watch?v=XXXXXXXXXXXX](https://www.youtube.com/watch?v=XXXXXXXXXXXX)
