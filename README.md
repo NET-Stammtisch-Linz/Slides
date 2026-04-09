@@ -25,4 +25,15 @@ No slides.
 <dd><a href="https://github.com/christophwille/demosatconferences/blob/master/ILSpy_Meetup_Linz_Feb26_ExtensionEverything.pdf">Extension Everything Under the Covers</a></dd>
 </dl>
 
-**Recording:** [https://www.youtube.com/watch?v=XXXXXXXXXXXX](https://www.youtube.com/watch?v=XXXXXXXXXXXX)
+**Recording:** [https://www.youtube.com/watch?v=nP3JEbPWgEc](https://www.youtube.com/watch?v=nP3JEbPWgEc)
+
+## Pattern-based C#: if it quacks like a duck… - Eva Ditzelmüller & Stefan Pölz
+
+No slides.
+
+<dl>
+<dt>Code from the talk</dt>
+<dd>TBD</dd>
+</dl>
+
+**Recording:** [https://www.youtube.com/watch?v=4Wedk-8DWvM](https://www.youtube.com/watch?v=4Wedk-8DWvM)
