@@ -33,7 +33,7 @@ No slides.
 
 <dl>
 <dt>Code from the talk</dt>
-<dd>TBD</dd>
+<dd>https://gist.github.com/Flash0ver/77ef8d6cd5f12fbbfb76351f2e99d993</dd>
 </dl>
 
 **Recording:** [https://www.youtube.com/watch?v=4Wedk-8DWvM](https://www.youtube.com/watch?v=4Wedk-8DWvM)
