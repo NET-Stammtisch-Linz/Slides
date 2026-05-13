@@ -5,6 +5,7 @@ Slides from our meetups
 ## Archive
 
 - [2025](./2025/2025.md)
+- [2026](./2026/2026.md)
 
 
 ## Roslyn 101: Source Generators, Diagnostic Analyzers and CodeFix Providers - Shahab Ganji
@@ -37,3 +38,12 @@ No slides.
 </dl>
 
 **Recording:** [https://www.youtube.com/watch?v=4Wedk-8DWvM](https://www.youtube.com/watch?v=4Wedk-8DWvM)
+
+## Modernizing a Monolith - from .NET 2 to .NETCore 10 - Klaus Linzner
+
+<dl>
+<dt>Slides from the talk</dt>
+<dd><a href="2026/2026-05-12-Modernizing a Monolith.pdf">Modernizing a monolith</a></dd>
+</dl>
+
+**Recording:** [https://youtu.be/QGjvbaqk0OI](https://youtu.be/QGjvbaqk0OI)
